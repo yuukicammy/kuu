@@ -1,0 +1,6 @@
+#include "functions/batchnorm.hpp"
+#include "functions/convolution.hpp"
+#include "functions/error.hpp"
+#include "functions/linear.hpp"
+#include "functions/relu.hpp"
+#include "functions/softmax_cross_entropy.hpp"
